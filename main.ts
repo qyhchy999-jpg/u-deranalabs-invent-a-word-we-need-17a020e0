@@ -13,6 +13,8 @@ import { join } from "node:path";
 // spellable (screen + vertigo), and the definition lands in one
 // reading because the experience is universal. The whole entry is one
 // word plus one clear line, inside 140 chars.
+// Screen + vertigo: two familiar words fused into one you can say aloud.
+// Everyone who reads in bed knows this dizzy feeling — now it has a name.
 const LINE =
   "screenvertigo — the dizzy, seasick feeling after an hour of staring at your phone in bed.";
 
