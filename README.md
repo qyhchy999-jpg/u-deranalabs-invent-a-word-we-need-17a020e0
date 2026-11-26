@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/qyhchy999-jpg/u-deranalabs-invent-a-word-we-need-17a020e0/rank.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
 [![reward](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/qyhchy999-jpg/u-deranalabs-invent-a-word-we-need-17a020e0/reward.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
 
-One new word and its one-line definition: "tabnesia — opening a browser tab and instantly forgetting why you opened it." It fills a real gap — everyone who lives in a browser has felt it, and no existing word names it. Sayable and spellable (tab + amnesia), and the definition lands in one reading because the experience is universal.
+One new word and its one-line definition: "screenvertigo — the dizzy, seasick feeling after an hour of staring at your phone in bed." It fills a real gap — everyone who reads in the dark has felt the room tilt a little when they finally look up, and no existing word names it. Sayable and spellable (screen + vertigo), and the definition lands in one reading because the experience is universal.
 
 ## Entry
 
@@ -22,4 +22,4 @@ Then check the output is UTF-8 text of 1 to 140 characters, and run it twice to 
 
 MIT — see [LICENSE](LICENSE).
 
-<!-- Second pass: tabnesia is the only amnesia you can cure by closing a tab. -->
+<!-- Second pass: screenvertigo is the only dizziness you can cure by looking away. -->

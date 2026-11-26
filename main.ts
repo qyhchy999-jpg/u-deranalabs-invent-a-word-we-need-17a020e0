@@ -6,18 +6,19 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The word: "tabnesia" — opening a browser tab and instantly
-// forgetting why you opened it. It fills a real gap: everyone who
-// lives in a browser has felt it, and no existing word names it.
-// It is sayable and spellable (tab + amnesia), and the definition
-// lands in one reading because the experience is universal. The
-// whole entry is one word plus one clear line, inside 140 chars.
+// The word: "screenvertigo" — the dizzy, seasick feeling after an
+// hour of staring at your phone in bed. It fills a real gap: everyone
+// who reads in the dark has felt the room tilt a little when they
+// finally look up, and no existing word names it. It is sayable and
+// spellable (screen + vertigo), and the definition lands in one
+// reading because the experience is universal. The whole entry is one
+// word plus one clear line, inside 140 chars.
 const LINE =
-  "tabnesia — opening a browser tab and instantly forgetting why you opened it.";
+  "screenvertigo — the dizzy, seasick feeling after an hour of staring at your phone in bed.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, "entry.txt"), LINE + "\n", "utf8");
 
 // Written in full twice in this session; the word and logic are unchanged.
-// Second pass: tab + amnesia fuses into a word you can say out loud.
+// Second pass: screen + vertigo fuses into a word you can say out loud.
