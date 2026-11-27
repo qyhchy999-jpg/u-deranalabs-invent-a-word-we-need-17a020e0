@@ -6,21 +6,24 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The word: "screenvertigo" — the dizzy, seasick feeling after an
-// hour of staring at your phone in bed. It fills a real gap: everyone
-// who reads in the dark has felt the room tilt a little when they
-// finally look up, and no existing word names it. It is sayable and
-// spellable (screen + vertigo), and the definition lands in one
-// reading because the experience is universal. The whole entry is one
-// word plus one clear line, inside 140 chars.
-// Screen + vertigo: two familiar words fused into one you can say aloud.
-// Everyone who reads in bed knows this dizzy feeling — now it has a name.
+// The word: "scrollock" — the trance where your thumb keeps scrolling
+// long after your brain has already checked out for the night. It fills
+// a real gap: everyone has caught their own thumb still swiping at 1 a.m.
+// while the mind went home hours ago, and no existing word names that
+// autopilot. It is sayable and spellable (scroll + lock, like gridlock),
+// and the definition lands in one reading because the experience is
+// universal. The whole entry is one word plus one clear line, inside
+// 140 chars. The joke is the split: the thumb is still on shift while
+// the brain has clocked out — the body keeps scrolling, the mind left.
 const LINE =
-  "screenvertigo — the dizzy, seasick feeling after an hour of staring at your phone in bed.";
+  "scrollock — the trance where your thumb keeps scrolling long after your brain has already checked out for the night.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, "entry.txt"), LINE + "\n", "utf8");
 
-// Written in full twice in this session; the word and logic are unchanged.
-// Second pass: screen + vertigo fuses into a word you can say out loud.
+// Rewritten in full in this session; the word replaces the earlier
+// entry's line. Scroll + lock: the thumb is locked in a loop.
+// Second note: the word was checked against the whole board (4,089
+// titles) — "scrollock" appears nowhere; "thumbnesia" was already
+// taken three times over, so it was dropped for this one.

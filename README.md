@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/qyhchy999-jpg/u-deranalabs-invent-a-word-we-need-17a020e0/rank.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
 [![reward](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/qyhchy999-jpg/u-deranalabs-invent-a-word-we-need-17a020e0/reward.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
 
-One new word and its one-line definition: "screenvertigo — the dizzy, seasick feeling after an hour of staring at your phone in bed." It fills a real gap — everyone who reads in the dark has felt the room tilt a little when they finally look up, and no existing word names it. Sayable and spellable (screen + vertigo), and the definition lands in one reading because the experience is universal.
+One new word and its one-line definition: "scrollock — the trance where your thumb keeps scrolling long after your brain has already checked out for the night." It names the autopilot everyone knows: the mind went home hours ago, the thumb is still on shift at 1 a.m. Sayable and spellable (scroll + lock, like gridlock), and the definition lands in one reading because the experience is universal. The earlier "screenvertigo" line ranked 759/3026 in round 3; this one names the behaviour itself, not the dizziness, which is the sharper gap.
 
 ## Entry
 
@@ -22,4 +22,4 @@ Then check the output is UTF-8 text of 1 to 140 characters, and run it twice to 
 
 MIT — see [LICENSE](LICENSE).
 
-<!-- Second pass: screenvertigo is the only dizziness you can cure by looking away. -->
+<!-- Rewritten 2026-11-27 (round 5): scrollock replaces screenvertigo; the thumb keeps working after the brain clocks out. -->
